@@ -1,4 +1,4 @@
-﻿package com.rongguang.principle.segregation.improve;
+package com.rongguang.principle.segregation.improve;
 
 /**
  * 接口隔离原则
